@@ -1,0 +1,32 @@
+{    "zooEventsData": [{
+        "Id": 1,
+        "Subject": "Teste pro Professor",
+        "StartTime": "2020-10-10T04:00:00.000Z",
+        "EndTime": "2020-10-10T06:50:00.000Z",
+        "CategoryColor": "#1aaa55"
+    }, {
+        "Id": 2,
+        "Subject": "Leonardo Perez",
+        "StartTime": "2020-10-04T06:30:00.000Z",
+        "EndTime": "2020-10-04T08:30:00.000Z",
+        "CategoryColor": "#357cd2"
+    }, {
+        "Id": 3,
+        "Subject": "Clique em mim",
+        "StartTime": "2020-10-09T04:30:00.000Z",
+        "EndTime": "2020-10-09T06:00:00.000Z",
+        "CategoryColor": "#7fa900"
+    }, {
+        "Id": 5,
+        "Subject": "Mais teste pra mostrar o drag and drop",
+        "StartTime": "2020-10-08T04:30:00.000Z",
+        "EndTime": "2020-10-08T06:00:00.000Z",
+        "CategoryColor": "#00bdae"
+    }, {
+        "Id": 17,
+        "Subject": "Elias Lopes",
+        "StartTime": "2020-10-09T09:00:00.000Z",
+        "EndTime": "2020-10-09T10:30:00.000Z",
+        "CategoryColor": "#1aaa55"
+    }]
+}
